@@ -6,8 +6,8 @@ group = 'com.viztushar.libs' // Change this to match your package name
 version = '1.0.0'
 
 bintray {
-    user = 'viztushar'
-    key = 'd4829c708489f5207a40a6f9b79f7ac137ae782d'
+    user = 'xxx'
+    key = 'xxx'
     pkg {
         repo = 'maven'
         name = 'Libs' // the name of the package in BinTray
