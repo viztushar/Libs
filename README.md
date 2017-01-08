@@ -1,6 +1,6 @@
 # Libs
 
-[![](https://jitpack.io/v/viztushar/Libs.svg)](https://jitpack.io/#viztushar/Libs
+[![](https://jitpack.io/v/viztushar/Libs.svg)](https://jitpack.io/#viztushar/Libs)
 [![GitHub issues](https://img.shields.io/github/issues/viztushar/Libs.svg)](https://github.com/viztushar/Libs/issues)
 [![GitHub forks](https://img.shields.io/github/forks/viztushar/Libs.svg)](https://github.com/viztushar/Libs/network)
 [![GitHub stars](https://img.shields.io/github/stars/viztushar/Libs.svg)](https://github.com/viztushar/Libs/stargazers)
