@@ -12,3 +12,22 @@
 ```javascript
 compile 'com.viztushar.libs:libs2:1.0.0' 
 ```
+
+##Using JitPack
+Add it in your root build.gradle at the end of repositories:
+
+```javascript
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+  ```
+  
+  Step 2. Add the dependency
+  ```javascript
+  dependencies {
+	        compile 'com.github.viztushar:Libs:release'
+	}
+  ```
